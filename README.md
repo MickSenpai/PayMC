@@ -1,4 +1,4 @@
-# TrustShield — Plataforma de protección antifraude (nombre provisional)
+# PayMC — Plataforma de protección antifraude (nombre provisional)
 
 Ayuda a compradores y vendedores a detectar señales de fraude antes de entregar un producto o dar un pago por válido. Empieza con **PayPal (Sandbox)** y es modular para añadir otros procesadores.
 
